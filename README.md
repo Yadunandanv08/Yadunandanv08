@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Yadunandan 🙌
 🔭 I’m currently working on AI and ML models.<br>🌱 I’m currently learning how to handle ML models.<br>📫 How to reach me: yadunandanv08@gmail.com
 
 
