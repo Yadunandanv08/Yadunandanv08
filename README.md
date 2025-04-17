@@ -1,8 +1,10 @@
+<br>
+<br>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Yadunandan+V;Welcome+To+My+Hub:%29)](https://git.io/typing-svg)
-  
-  <img src="octocat.gif" alt="octocat" width="50" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Yadunandan+V)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Hub:%29)](https://git.io/typing-svg)
 
   <h1 align="center"> &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> About Me</h1>
 
@@ -114,10 +116,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img align="center" alt="Coding" width="200" src="images/mario.gif">
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yadunandanv08&show_icons=true&locale=en&theme=tokyonight" alt="yadunandanv08" />
