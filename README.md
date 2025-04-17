@@ -1,12 +1,14 @@
- ![MasterHead](images/title.gif)
 # <div align="center">👨‍💻 YADUNANDAN V</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&pause=1000&color=00C896&center=true&vCenter=true&width=800&height=80&lines=🚀+Welcome+to+my+Profile!;💻+Passionate+Developer;🔍+AI+%26+ML+Enthusiast;⚡+Problem+Solver" />
 </div>
 
+ ![MasterHead](images/title.gif)
+
 <div align="center">
-  <h3>Software Developer | CS Engineering Student | AI</h3>
+  <h3>Software Developer | CS Engineering Student | AI Enthusiast</h3>
+  <p><a href="https://yadunandan-v-portfolio.vercel.app" target="_blank">🔗 Portfolio Website</a></p>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbac9108010869.5f9d3c7bae636.gif">
@@ -17,11 +19,13 @@
 - 🌱 Learning and working with **Generative AI, Machine Learning, and NLP**
 - 📫 Reach me at: **yadunandanv.mec@gmail.com**
 - 📚 B.Tech Student in Computer Science Engineering at **Govt. Model Engineering College**
+- 🔗 Portfolio: [yadunandan-v-portfolio.vercel.app](https://yadunandan-v-portfolio.vercel.app)
 
 ## Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yadunandanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadunandanv" height="30" width="40" /></a>
-  <a href="https://github.com/YadunandanV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YadunandanV" height="30" width="40" /></a>
+  <a href="mailto:yadunandanv.mec@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yadunandan-v-840255259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/yadunandan08/?igsh=MWE2cGUyZXAwa3E3ZA%3D%3D#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack & Tools
@@ -98,14 +102,25 @@
   </a>
 </p>
 
+<hr>
 
-##Github Stats
+<div align="center">
+  <!-- Pac-Man contribution graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<hr>
+
+## Github Stats
 <p align="left">  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yadunandanv08&theme=tokyonight" alt="yadunandanv08" />
   </a>  
 </p>
-
 
 <table align="center">
   <tr>
@@ -118,29 +133,20 @@
   </tr>
 </table>
 
-
 <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=yadunandanv08&show_icons=true&locale=en&theme=tokyonight" alt="yadunandanv08" />
     </td>
-    
   </tr>
 </table>
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-h2yg.vercel.app?user=yadunandanv08&theme=tokyonight-duo" alt="GitHub Streak" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadunandanv08&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
-
-<div align="center">
-  <!-- Pac-Man contribution graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Yadunandanv08/Yadunandanv08/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
