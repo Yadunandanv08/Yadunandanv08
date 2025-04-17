@@ -29,8 +29,6 @@
   <p><a href="https://yadunandan-v-portfolio.vercel.app" target="_blank">View my Portfolio</a></p>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbac9108010869.5f9d3c7bae636.gif">
-
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yadunandanv08}/count.svg" /></p> 
@@ -116,6 +114,10 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img align="center" alt="Coding" width="200" src="images/mario.gif">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yadunandanv08&show_icons=true&locale=en&theme=tokyonight" alt="yadunandanv08" />
