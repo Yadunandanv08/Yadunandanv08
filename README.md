@@ -1,108 +1,88 @@
-# <div align="center">👨‍💻 YADUNANDAN V</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&pause=1000&color=00C896&center=true&vCenter=true&width=800&height=80&lines=🚀+Welcome+to+my+Profile!;💻+Passionate+Developer;🔍+AI+%26+ML+Enthusiast;⚡+Problem+Solver" />
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Yadunandan+V;Welcome+To+My+Hub:%29)](https://git.io/typing-svg)
+  
+  <img src="octocat.gif" alt="octocat" width="50" />
+
+  <h1 align="center"> &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> About Me</h1>
+
+  <p>
+  Hey there! I'm a B.Tech CSE student at Model Engineering College, Kochi.<br>
+  I mess around with AI, ML, and NLP stuff 🤖.<br>
+  Also love playing around with UI design and building cool, clean websites 🎨.<br>
+  Big fan of learning new tech and turning random ideas into working projects.
+  </p>
+
 </div>
 
- ![MasterHead](images/title.gif)
+<br>
+<div align="center">
+  <hr style="width:60%;border:0.5px solid #00bfbf;">
+</div>
+<br>
 
 <div align="center">
+  
+  ![MasterHead](images/title.gif)
+
   <h3>Software Developer | CS Engineering Student | AI Enthusiast</h3>
-  <p><a href="https://yadunandan-v-portfolio.vercel.app" target="_blank">🔗 Portfolio Website</a></p>
+  <p><a href="https://yadunandan-v-portfolio.vercel.app" target="_blank">View my Portfolio</a></p>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbac9108010869.5f9d3c7bae636.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YadunandanV&label=Profile%20views&color=0e75b6&style=flat" alt="YadunandanV" /> </p>
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yadunandanv08}/count.svg" /></p> 
+  <br>
+</div>
 
-## About Me
+## What am I doing right now?
 - 🌱 Learning and working with **Generative AI, Machine Learning, and NLP**
 - 📫 Reach me at: **yadunandanv.mec@gmail.com**
 - 📚 B.Tech Student in Computer Science Engineering at **Govt. Model Engineering College**
-- 🔗 Portfolio: [yadunandan-v-portfolio.vercel.app](https://yadunandan-v-portfolio.vercel.app)
 
 ## Connect With Me
-<p align="left">
-  <a href="mailto:yadunandanv.mec@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Email" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/yadunandan-v-840255259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/yadunandan08/?igsh=MWE2cGUyZXAwa3E3ZA%3D%3D#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="mailto:yadunandanv.mec@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Email" height="70" width="70" /></a>
+    <a href="https://www.linkedin.com/in/yadunandan-v-840255259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" width="70" /></a>
+    <a href="https://www.instagram.com/yadunandan08/?igsh=MWE2cGUyZXAwa3E3ZA%3D%3D#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="70" width="70" /></a>
+    <a href="http://discordapp.com/users/yadunandan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Instagram" height="70" width="70" /></a>
+  </p>
+</div>
 
 ## Tech Stack & Tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="Next.js" width="80" height="80"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="80" height="80"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="80" height="80"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="80" height="80"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="80" height="80"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="80" height="80"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="80" height="80"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="80" height="80"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="80" height="80"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="80" height="80"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="80" height="80"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" width="80" height="80"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80"/>
-  </a>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="70"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="70"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="70"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="70"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="70"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="70"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="70"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="70"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="70"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="70"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="70"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="70"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="70"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="70"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="70"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="70"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="70"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="70"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="70"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="70"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" width="70"/></a>
+  <a href="https://render.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="70"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/></a>
 </p>
 
-<hr>
+<div align="center">
+  <hr>
+</div>
 
 <div align="center">
   <!-- Pac-Man contribution graph -->
@@ -113,14 +93,18 @@
   </picture>
 </div>
 
-<hr>
+<div align="center">
+  <hr>
+</div>
 
 ## Github Stats
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yadunandanv08&theme=tokyonight" alt="yadunandanv08" />
-  </a>  
-</p>
+<div align="center">
+  <p>  
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=yadunandanv08&theme=tokyonight" alt="yadunandanv08" />
+    </a>  
+  </p>
+</div>
 
 <table align="center">
   <tr>
@@ -133,13 +117,9 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yadunandanv08&show_icons=true&locale=en&theme=tokyonight" alt="yadunandanv08" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadunandanv08&show_icons=true&locale=en&theme=tokyonight" alt="yadunandanv08" />
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -147,6 +127,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadunandanv08&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadunandanv08&theme=react-dark&hide_border=true&height=600" alt="GitHub Contribution Graph" />
+</div>
