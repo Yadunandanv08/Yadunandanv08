@@ -109,7 +109,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadunandanv08&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-streak-stats-h2yg.vercel.app?user=yadunandanv08&theme=tokyonight-duo" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=yadunandanv08&theme=tokyonight" alt="Top Contributed Repositories" />
@@ -122,8 +122,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-h2yg.vercel.app?user=yadunandanv08&theme=tokyonight-duo" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadunandanv08&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
