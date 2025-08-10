@@ -33,7 +33,7 @@
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yadunandanv08}/count.svg" /></p> 
+  <p align="center"><img src="https://profile-counter.deno.dev/:yadunandanv08:/count.svg" alt="Key:: Visitor's Count" /></p> 
   <br>
 </div>
 
@@ -56,7 +56,9 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="70"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="70"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/640px-Angular_gradient.png" width="70"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="70"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="70"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="70"/></a>
