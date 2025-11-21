@@ -58,7 +58,7 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="70"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="70"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="70"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/640px-Angular_gradient.png" width="70"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://www.svgrepo.com/show/353396/angular-icon.svg" width="70"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="70"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="70"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="70"/></a>
